@@ -1,8 +1,7 @@
 import React from 'react'
 import Skill from './Skill.jsx'
 import { BiBrain } from 'react-icons/bi'
-import { AiOutlineDatabase } from 'react-icons/ai'
-import { DiMootoolsBadge } from 'react-icons/di'
+import { AiOutlineDatabase, AiOutlineEdit } from 'react-icons/ai'
 import './skills.css'
 
 const skill1Icon = <BiBrain className='skillContainer-Child-skill-icon'/>
@@ -11,7 +10,7 @@ const skill1Text = 'Poseo conocimientos sobre diferentes modelos de clasificaci�
 const skill2Icon = <AiOutlineDatabase className='skillContainer-Child-skill-icon'/>
 const skill2Text = 'Poseo habilidades para analizar datos masivos con herramientas de manipulación y visualización con Python todo dirigido a la ciencia de los datos. Herramientas: Python (matplotlib, pandas, numpy), Data studio.'
 
-const skill3Icon = <DiMootoolsBadge className='skillContainer-Child-skill-icon' />
+const skill3Icon = <AiOutlineEdit className='skillContainer-Child-skill-icon' />
 const skill3Text = 'JavaScript - React. Web - Css - html - Json. Python. Php. MySql'
 
 export default function Skills() {

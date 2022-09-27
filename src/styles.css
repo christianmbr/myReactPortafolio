@@ -43,9 +43,10 @@ body {
 }
 
 .container {
-  width: var(--container-mid);
+  width: var(--container-small);
   height: 100vh;
   margin: 0 auto;
+  margin-bottom: 1rem;
 }
 
 img {
