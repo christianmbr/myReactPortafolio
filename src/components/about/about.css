@@ -1,0 +1,30 @@
+.aboutContainer {
+
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+  align-items: center;
+  justify-items: center;
+}
+.aboutContainer div{ 
+  padding: 1rem;
+}
+
+.aboutContainer p {
+  margin-bottom: .5rem;
+  font-size: .9rem;
+}
+
+.aboutContainer-cv {
+  justify-self: start;
+}
+
+.aboutContainer-cv a {
+  font-size: 1rem;
+}
+
+.aboutContainer h2 {
+  color: var(--color-primary);
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

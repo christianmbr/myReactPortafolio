@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Karla&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  /*Principal colors*/
+  --color-bg: #18191d;
+  --color-bg-variant: #2E3139;
+  --color-primary: #39D0CB;
+  --color-primary-trnp: #39d0cb0a;
+  --color-primary-trnp-active: #39d0cbc2;
+  --color-text: #FFFFFF;
+
+  /*Container width*/
+  --container-lg: 75%;
+  --container-mid: 86%;
+  --container-small: 90%;
+  
+  --transition: all 500ms ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+  
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.7;
+}
+
+.container {
+  width: var(--container-mid);
+  height: 100vh;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+a {
+  font-size: 20px;
+  color: var(--color-primary);
+  transition: var(--transition);
+}
+
+a:hover {
+  color: var(--color-text);
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
