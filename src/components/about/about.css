@@ -4,6 +4,11 @@
   gap: 1rem;
   align-items: center;
   justify-items: center;
+
+  width: var(--container-small);
+  height: 100vh;
+  margin: 0 auto;
+  margin-bottom: 1rem;
 }
 .aboutContainer div{ 
   padding: 1rem;
@@ -26,4 +31,19 @@
   color: var(--color-primary);
   font-weight: bold;
   margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 1020px) {
+  .aboutContainer {
+    gap: 0;
+    height: auto;
+    grid-template-columns: 1fr;
+  }
+  .aboutContainer-cv{
+    align-self: center;
+    justify-self: center;
+  }
+  .aboutContainer h2 {
+    text-align: center;
+  }
 }

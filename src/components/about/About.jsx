@@ -5,7 +5,7 @@ export default function About() {
   const path = 'https://drive.google.com/file/d/1v4MX7UKSoEcVdHwF_Vvb9269lN48I9bM/view?usp=sharing'
 
   return (
-    <div id='about' className='container aboutContainer'>
+    <div id='about' className='aboutContainer'>
       <div className='aboutContainer-cv'>
         <ul>
           <li><b>Nombre:</b> Christian Benitez</li>

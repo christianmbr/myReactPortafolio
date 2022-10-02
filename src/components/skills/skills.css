@@ -1,9 +1,14 @@
 .skillContainer {
   display: grid;
-  gap: 1rem;
-  grid-template-rows: 1fr 11fr;
-  /* grid-auto-flow: column;
-  align-items: center; */
+  /* gap: 1rem; */
+  grid-template-rows: 2fr 11fr;
+  /* grid-auto-flow: column;*/
+  align-items: center;
+
+  width: var(--container-small);
+  height: 100vh;
+  margin: 0 auto;
+  margin-bottom: 1rem;
 }
 
 .skillContainer-Child-skills {
@@ -36,5 +41,47 @@
 .skillContainer-Child h2 {
   color: var(--color-primary);
   font-weight: bolder;
-  /* text-align: center; */
+  text-align: center;
+}
+
+.skillContainer-Child p {
+  text-align: center;
+}
+
+@media screen and (max-width: 1120px) {
+  .skillContainer {
+    height: auto;
+  }
+  .skillContainer-Child-skills {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 2rem;
+    height: auto;
+    /* height: 15rem; */
+  }
+}
+
+@media screen and (max-width: 788px) {
+  .skillContainer-Child-skills {
+    grid-template-columns: 1fr;
+  }
+
+  .skillContainer-Child-skill {
+    border-radius: 0;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .skillContainer {
+    gap: 2rem;
+  }
+
+  .skillContainer-Child-skills {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .skillContainer-Child-skill {
+    background-color: var(--color-bg);
+  }
 }
