@@ -1,0 +1,33 @@
+{
+  "header.nombre": "HI I AM CHRISTIAN",
+  "header.trabajo": "Software development technologist",
+  
+  "about.titulo": "ABOUT ME",
+  "about.nombre": "Name: ",
+  "about.edad": "Age: ",
+  "about.mail": "Email: ",
+  "about.hojaDeVida": "Open CV",
+  "about.introduccion-p1": "Hello, my name is Christian. I am a software development technologist and software engineering student at Pascual Bravo University in the city of Medellin in Colombia. Within the software field I highlight my skills in languages such as Python, JavaScript, I consider that I have a good base in the fundamentals of programming which allows me to use and understand any language. I have an abstract mind that throughout my career as an engineer has helped me to fulfill all my tasks and responsibilities. I am a lover of optimization; I always look for the optimal way to perform my tasks to reach my goals faster and easier.",
+  "about.introduccion-p2": "Talking about more personal issues, I am a person that within all my values I highlight loyalty and gratitude. I am a very grateful being, so, if you give me a teaching or a little bit of quality time, I will probably take it with me, I will be grateful and remember it for the rest of my days.",
+  
+  "skills.titulo": "SKILLS",
+  "skills.subtitulo": "Outstanding skills",
+  "skills.habilidad1-titulo": "Artificial intelligence",
+  "skills.habilidad2-titulo": "Data analysis",
+  "skills.habilidad3-titulo": "Web programming",
+  "skills.habilidad1-info": "I have knowledge of different classification models to perform all types of supervised or unsupervised prediction. Ability to evaluate classification models, regression to improve the prediction quality of the model.",
+  "skills.habilidad2-info": "I have skills to analyze massive data with manipulation and visualization tools with Python all directed to data science. Tools: Python (matplotlib, pandas, numpy), Data studio.",
+  "skills.habilidad3-info": "Basic web programming skills. Knowledge in web tools such as CSS, HTML, React, NodeJs, MongoDB, Json. I have used programming languages such as PHP, JavaScript, Python.",
+  "skills.habilidad4-titulo": "Basic skills",
+  "skills.habilidad5-titulo": "Medium skills",
+  "skills.habilidad6-titulo": "High skills",
+  "skills.habilidad4-info": "I can provide programming in C#, Java language. Support different groups related to software architecture. Perform consulting and research of IT projects. Supporting the management of IT projects.",
+  "skills.habilidad5-info": "I can provide database management, standardization. Create predictive models for artificial intelligence. Full stack web programming with JavaScript. Programming with quality standards and SOLID principles.",
+  "skills.habilidad6-info": "I can bring ideas based on data analysis and business intelligence. Recognize, understand and use any programming language, taking into account programming fundamentals.",
+
+  "contacto.direccion": "ADDRESS",
+  "contacto.telefono": "PHONE",
+  "contacto.correo": "MAIL",
+
+  "footer": "Page programmed and designed by Christian Benitez"
+}

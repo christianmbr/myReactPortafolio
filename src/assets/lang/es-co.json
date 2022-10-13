@@ -1,0 +1,33 @@
+{
+  "header.nombre": "HOLA SOY CHRISTIAN",
+  "header.trabajo": "Tecnologo en desarrollo de software",
+
+  "about.titulo": "SOBRE MI",
+  "about.nombre": "Nombre: ",
+  "about.edad": "Edad: ",
+  "about.mail": "Correo: ",
+  "about.hojaDeVida": "Ver hoja de vida",
+  "about.introduccion-p1": "Hola me llamo Christian. Soy tecnólogo en desarrollo de software y estudiante de ingeniería de software de la universidad Pascual Bravo de la ciudad de Medellín en Colombia. Dentro del campo del software destaco mis habilidades en lenguajes como Python, JavaScript, considero que tengo una buena base en los fundamentos de la programación el cual me permite utilizar y comprender cualquier lenguaje. Poseo una mente abstracta que a lo largo de mi carrera como ingeniero me ha ayudado a cumplir con todas mis tareas y responsabilidades. Soy un amante la optimización, siempre busco la manera óptima para realizar mis tareas y así llegar a mis objetivos más rápido y sencillo.",
+  "about.introduccion-p2": "Hablando sobre temas más personales, soy una persona que dentro de todos mis valores destaco la lealtad y gratitud. Soy un ser muy agradecido, así que, si me regalas una enseñanza o un poco de tiempo de calidad, posiblemente me lo llevaré, agradeceré y recordaré por el resto de mis días. ",
+
+  "skills.titulo": "HABILIDADES",
+  "skills.subtitulo": "Habilidades destacadas",
+  "skills.habilidad1-titulo": "Inteligencia artificial",
+  "skills.habilidad2-titulo": "Análisis de datos",
+  "skills.habilidad3-titulo": "Programación web",
+  "skills.habilidad4-titulo": "Habilidades básicas",
+  "skills.habilidad5-titulo": "Habilidades medias",
+  "skills.habilidad6-titulo": "Habilidades altas",
+  "skills.habilidad1-info": "Poseo conocimientos sobre diferentes modelos de clasificación para realizar todo tipo de predicción supervisada o no supervisada. Capacidad de evaluar los modelos de clasificación, regresión para mejorar la calidad de predicción del modelo.",
+  "skills.habilidad2-info": "Poseo habilidades para analizar datos masivos con herramientas de manipulación y visualización con Python todo dirigido a la ciencia de los datos. Herramientas: Python (matplotlib, pandas, numpy), Data studio.",
+  "skills.habilidad3-info": "Habilidades básicas en la programación web. Conocimiento en herramientas web cono CSS, HTML, React, NodeJs, MongoDB, Json. He utilizado lenguajes de programación como PHP, JavaScript, Python.",
+  "skills.habilidad4-info": "Puedo aportar programación en lenguaje C#, Java. Apoyar diferentes grupos relacionados en la arquitectura del software. Realizar consultorías e investigación de proyectos informáticos. Apoyo a la dirección de proyectos informáticos",
+  "skills.habilidad5-info": "Puedo aportar gestión de bases de datos, normalización. Crear modelos de predicción para la inteligencia artificial. Programación web full stack con JavaScript. Programación con estándares de calidad y principios SOLID.",
+  "skills.habilidad6-info": "Puedo aportar ideas basadas en el análisis de los datos y la inteligencia de negocios. Reconocer, comprender y utilizar cualquier lenguaje de programación, teniendo en cuenta los fundamentos de programación.",
+
+  "contacto.direccion": "DIRECCION",
+  "contacto.telefono": "TELEFONO",
+  "contacto.correo": "CORREO",
+
+  "footer": "Página programada y diseñada por Christian Benitez"
+}
